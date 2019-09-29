@@ -1,2 +1,2 @@
 # CS231N-Solution
-This is my solution to CS231N
+This records my study proccess for Stanford CS231N
